@@ -1,0 +1,14 @@
+{
+  "name": "multivision",
+  "description": "Plural Sight Sample",
+  "main": "index.js",
+  "authors": [
+    "Mohammed Tawfik"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true
+}
